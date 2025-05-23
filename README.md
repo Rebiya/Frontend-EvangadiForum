@@ -1,91 +1,42 @@
-# Evangadi Forum - Open Source Q&A Platform 📚
+# 📚 Evangadi Forum – Open Source Q&A Platform
 
-Evangadi Forum is an open-source **Question & Answer** platform where users can **ask questions, view answers, and contribute by answering specific questions**. This project is built with **React, MUI, TailwindCSS, and Vite**, providing a smooth and responsive user experience.
+**Evangadi Forum** is an open-source **Question & Answer** platform where users can ask questions, view answers, and contribute by answering specific questions. Built with **React, MUI, TailwindCSS, and Vite**, it offers a smooth and responsive experience.
+
+🔗 **Live App**: [Evangadi Forum](https://rebiyaevangadi.netlify.app/)  
+🎥 **Demo Video**: [Watch on YouTube](https://youtu.be/lnHMr_GFm50)
 
 ---
 
 ## 🚀 Features
 
-- 🔹 **User Authentication** – Users must log in to interact with the platform.
-- 🔹 **Ask Questions** – Any logged-in user can post a question.
-- 🔹 **View Answers** – Browse existing questions and their answers.
-- 🔹 **Answer Questions** – Contribute by answering specific questions.
-- 🔹 **Modern UI** – Built with **MUI, TailwindCSS, and Bootstrap** for a clean and responsive design.
+- 🔐 **User Authentication** – Secure login required to ask or answer questions.  
+- ❓ **Ask Questions** – Post your queries after logging in.  
+- 📖 **View Answers** – Browse through community-provided answers.  
+- ✍️ **Answer Questions** – Share your expertise and help others.  
+- 🎨 **Modern UI** – Built with **MUI**, **Tailwind CSS**, and **Bootstrap** for a clean design.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 📌 Frontend
-- **React 18** – Modern and efficient UI development.
-- **MUI (Material-UI)** – Beautiful prebuilt components.
-- **Tailwind CSS** – Utility-first CSS framework.
-- **Bootstrap 5** – Responsive design framework.
-- **React Router** – Navigation handling.
-- **SweetAlert2** – Elegant alert popups.
-- **Axios** – API requests handling.
-- **React Transition Group** – Smooth animations.
+### Frontend
+- ⚛️ **React 18**  
+- 🎨 **MUI (Material-UI)**, **Tailwind CSS**, **Bootstrap 5**  
+- 🔁 **React Router** – Seamless navigation  
+- 🔔 **SweetAlert2** – Stylish alerts  
+- 🌐 **Axios** – API calls  
+- 🎬 **React Transition Group** – Smooth animations  
 
-### 📌 Build & Development
-- **Vite** – Fast development server.
-- **ESLint** – Code quality enforcement.
-- **PostCSS & Autoprefixer** – CSS optimizations.
+### Tooling
+- ⚡ **Vite** – Fast build and development server  
+- 🧹 **ESLint** – Code quality and linting  
+- ✂️ **PostCSS** + **Autoprefixer** – CSS optimization  
 
 ---
 
 ## 📦 Installation & Setup
 
-### 🔹 Clone the Repository
-```sh
+### 1. Clone the Repository
+```bash
 git clone https://github.com/your-username/Frontend-EvangadiForum.git
 cd Frontend-EvangadiForum
-```
-
-### 🔹 Install Dependencies
-```sh
-npm install
-```
-
-### 🔹 Run the Development Server
-```sh
-npm run dev
-```
-
----
-
-## 🏗️ Project Structure
-```
-Frontend-EvangadiForum/
-│── src/
-│   ├── components/     # Reusable UI components
-│   ├── pages/          # Different pages (Home, Login, Q&A, etc.)
-│   ├── hooks/          # Custom React hooks
-│   ├── context/        # Global state management
-│   ├── assets/         # Images and static files
-│   └── App.js          # Main application entry
-│── public/             # Static files
-│── package.json        # Dependencies and scripts
-│── vite.config.js      # Vite configuration
-```
-
----
-
-## 🔑 Authentication Flow
-- Users **must log in** to interact with the platform.
-- Logged-in users can **post questions, view existing answers, and answer questions**.
-
----
----
----
----
-
-## 📩 Contact
-For any inquiries, feel free to reach out:
-- 📧 Email:rebum.19@gmail.com
-- 🌐 Website: [Evangadi Forum]([https://yourwebsite.com](https://rebiyaevangadi.netlify.app/))
-- 🐦 Linkedin: [Rebiya-Musema](www.linkedin.com/in/rebiya-musema-4678582a4)
-
----
-
-🚀 **Evangadi Forum – Empowering Knowledge Sharing!**
-
